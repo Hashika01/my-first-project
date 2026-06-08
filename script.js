@@ -1,3 +1,3 @@
 function showMessage() {
-    alert("Welcome to your first project!");
+    alert("Welcome to my first project!");
 }
